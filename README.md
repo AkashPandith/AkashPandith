@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akashpandith09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://akash-portfolio-puce-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ High-performance full-stack logistics platform (Next.js 14, TypeScript, Django R
 **[Chat & Communication App](https://github.com/YOUR-USERNAME/REPO-LINK)**
 Real-time messaging platform (React.js, Django Channels, WebSockets) with 1v1 and group chat, plus ZegoCloud-powered low-latency voice/video calling. Fully containerized microservices architecture with Docker.
 
-**[Portfolio Website](https://github.com/YOUR-USERNAME/REPO-LINK)**
+**[Portfolio Website](https://akash-portfolio-puce-delta.vercel.app/)**
 Personal portfolio built with React, TypeScript, and Tailwind CSS.
 
 ---
